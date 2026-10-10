@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="240" viewBox="0 0 760 240">
+<rect width="760" height="240" rx="10" fill="#13111c"/>
+<text x="24" y="38" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#fff">gmgn-bot</text>
+<rect x="24" y="52" width="70" height="3" fill="#a78bfa"/>
+<text x="24" y="80" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#949ba4">Variables</text>
+<rect x="24" y="96" width="712" height="36" rx="6" fill="#1b1c20"/><text x="40" y="119" font-family="Consolas, Menlo, monospace" font-size="14" fill="#c9c9ff">DISCORD_USER_TOKEN</text><text x="720" y="119" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="14" fill="#949ba4">••••••••••••••••••••••••</text><rect x="24" y="140" width="712" height="36" rx="6" fill="#1b1c20"/><text x="40" y="163" font-family="Consolas, Menlo, monospace" font-size="14" fill="#c9c9ff">MONITOR_CHANNEL_ID</text><text x="720" y="163" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="14" fill="#949ba4">123456789012345678</text><rect x="24" y="184" width="712" height="36" rx="6" fill="#1b1c20"/><text x="40" y="207" font-family="Consolas, Menlo, monospace" font-size="14" fill="#c9c9ff">TIMEZONE</text><text x="720" y="207" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="14" fill="#949ba4">Asia/Jakarta</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="454" viewBox="0 0 760 454">
+<rect width="760" height="454" rx="10" fill="#313338"/>
+<rect width="760" height="40" rx="10" fill="#2b2d31"/><rect y="30" width="760" height="10" fill="#2b2d31"/>
+<text x="20" y="26" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#dbdee1"><tspan fill="#949ba4"># </tspan>monitor</text>
+<circle cx="40" cy="74" r="20" fill="#5865f2"/><text x="40" y="80" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#fff" text-anchor="middle">Y</text>
+<text x="76" y="66" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#5865f2">you</text>
+<text x="76" y="90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#dbdee1" xml:space="preserve">!menu</text>
+<circle cx="40" cy="148" r="20" fill="#3ba55d"/><text x="40" y="154" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#fff" text-anchor="middle">G</text>
+<text x="76" y="140" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#3ba55d">gmgn-bot</text>
+<text x="76" y="164" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#dbdee1" xml:space="preserve">🤖 <tspan font-weight="700">GM/GN AUTOMATION BOT ON</tspan></text>
+<text x="76" y="186" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#dbdee1" xml:space="preserve">───────────────────────────────</text>
+<text x="76" y="208" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#dbdee1" xml:space="preserve">📌 <tspan font-weight="700">COMMAND MENU:</tspan></text>
+<text x="76" y="230" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#dbdee1" xml:space="preserve">• <tspan font-family="Consolas, Menlo, monospace" font-size="14" fill="#e3e5e8">!set &lt;id1&gt; &lt;id2&gt;</tspan> : Add target channels</text>
+<text x="76" y="252" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#dbdee1" xml:space="preserve">• <tspan font-family="Consolas, Menlo, monospace" font-size="14" fill="#e3e5e8">!time gm:07.00, gn:19.00</tspan> : Set GM/GN times</text>
+<text x="76" y="274" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#dbdee1" xml:space="preserve">• <tspan font-family="Consolas, Menlo, monospace" font-size="14" fill="#e3e5e8">!list</tspan> : Show targets &amp; schedule</text>
+<text x="76" y="296" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#dbdee1" xml:space="preserve">• <tspan font-family="Consolas, Menlo, monospace" font-size="14" fill="#e3e5e8">!stop &lt;id&gt;</tspan> : Remove a channel from targets</text>
+<text x="76" y="318" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#dbdee1" xml:space="preserve">• <tspan font-family="Consolas, Menlo, monospace" font-size="14" fill="#e3e5e8">!test gm</tspan> or <tspan font-family="Consolas, Menlo, monospace" font-size="14" fill="#e3e5e8">!test gn</tspan> : Send a manual test</text>
+<text x="76" y="340" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#dbdee1" xml:space="preserve">• <tspan font-family="Consolas, Menlo, monospace" font-size="14" fill="#e3e5e8">!menu</tspan> : Show the help menu</text>
+<text x="76" y="362" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#dbdee1" xml:space="preserve">───────────────────────────────</text>
+<rect x="16" y="406" width="728" height="34" rx="8" fill="#383a40"/>
+<text x="32" y="428" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#949ba4">Message #monitor</text>
+</svg>
